@@ -1,0 +1,15 @@
+Olá, esse projeto é sobre uma automação que fiz sobre um sistema de loja simples que fiz, essa automação cria dados aleatório para testes e apresentar o sistema. Eu criei 7 processos onde cria uma lista com objetos dentro dele para salvar os dados, esses dados são salvos no cache
+do navegador, dependendo do tamanho do cache, pode acabar não funcionando.
+
+Repositório da Loja: https://github.com/usuariodogatopreto/Loja
+
+Automações:
+- Produtos de Estoque;
+- Clientes;
+- Vendas;
+- Recebimentos e retirada de dinheiro;
+- Prestações;
+- Compras;
+- Despesas.
+
+Tudo feito com Javascript no Repositório: https://github.com/usuariodogatopreto/Gerador-de-dados
